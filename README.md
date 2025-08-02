@@ -24,15 +24,4 @@ A simple RESTful API for managing blog posts, built with **Node.js**, **Express.
 
 ---
 
-## 📁 Folder Structure
-
-blog-api/
-│
-├── controllers/ # Logic for handling requests
-├── models/ # Mongoose schemas
-├── routes/ # API endpoints
-├── config/ # MongoDB connection
-├── server.js # Main server file
-├── .env # Environment variables
-├── package.json
 
